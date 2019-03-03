@@ -1,0 +1,45 @@
+.wildfire {
+  font-family: monospace, monospace;
+  font-size: calc(1em + .5vw + .5vh);
+}
+
+.wildfire * {
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
+.way-i-live {
+  margin: auto;
+  padding: 1em;
+  max-width: 50em;
+  box-sizing: border-box;
+}
+
+.heavens-gate {
+  max-width: 21em;
+}
+
+.from-ashes {
+  margin: 0;
+  padding: 0;
+}
+
+.last-breath {
+  margin-bottom: 1em;
+}
+
+.i-wasted {
+  font: inherit;
+}
+
+.own-up {
+  font-weight: bold;
+}
+
+.speak-up {
+  font-size: 1.333em;
+}
+
+.grow-up {
+  font-size: 1.666em;
+}
